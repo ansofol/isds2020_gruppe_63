@@ -1,0 +1,2 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;test_call;requests;1597306999.2187715;-0.14602160453796387;https://www.theguardian.com/us-news/2019/aug/14/taco-eating-contest-death-fresno-california;https://www.theguardian.com/us-news/2019/aug/14/taco-eating-contest-death-fresno-california;738791;200;True;
