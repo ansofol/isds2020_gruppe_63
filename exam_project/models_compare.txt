@@ -1,0 +1,13 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &  Correct prediction share &  Validation MSE &  Test MSE \\
+model        &                           &                 &           \\
+\midrule
+LinReg       &                    0.8624 &          0.4163 &    0.4557 \\
+Lasso        &                    0.8690 &          0.3927 &    0.4640 \\
+LassoCV      &                    0.8690 &          0.3940 &    0.4662 \\
+Ridge        &                    0.8690 &          0.3785 &    0.4505 \\
+RidgeCV      &                    0.8646 &          0.3804 &    0.4528 \\
+ElasticNetCV &                    0.8712 &          0.3969 &    0.4714 \\
+\bottomrule
+\end{tabular}
